@@ -1,0 +1,12 @@
+.left-breathe {
+    position:relative; left:1em;
+}
+.left-indent {
+    position:relative; left:2.5em;
+}
+.float-left {
+    float:left;
+}
+.vAlign {
+    line-height: 5em;
+}
