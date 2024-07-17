@@ -1,5 +1,6 @@
 .left-breathe {
     position:relative; left:1em;
+    border-radius: 43%
 }
 .left-indent {
     position:relative; left:2.5em;
@@ -9,4 +10,8 @@
 }
 .vAlign {
     line-height: 5em;
+}
+
+body {
+    background-color: gold;
 }
